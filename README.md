@@ -16,7 +16,6 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Loading Network Images with AsyncImage in SwiftUI](https://medium.com/@walfandi/loading-network-images-with-asyncimage-in-swiftui-c4236b0ad92b?source=rss-9d59fb001723------2)
 - [A Beginner’s Guide to Clean Architecture in SwiftUI: Building Better Apps Step by Step](https://medium.com/@walfandi/a-beginners-guide-to-clean-architecture-in-ios-building-better-apps-step-by-step-53e6ec8b3abd?source=rss-9d59fb001723------2)
 <!-- BLOG-POST-LIST:END -->
