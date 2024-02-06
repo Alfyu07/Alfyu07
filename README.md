@@ -11,7 +11,9 @@
 
 - 📫 How to reach me **w.alfa433@gmail.com**
 
-### Blogs posts
+- ⚡ Fun fact **I ❤️ 🐱🐈s**
+
+### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
